@@ -10,5 +10,6 @@
 echo"Welcome Students MIS";
 
     ?>
+    <a  href="table.php" id="p">Display</a>
 </body>
 </html>
